@@ -1,4 +1,4 @@
-Bookstore
-===========
 
-this is a simple books store for online sale
+# Bookstore
+This is a shopping cart application build with Nodejs, Expressjs, Kraken, Mongoose, Mongodb and Dust
+
